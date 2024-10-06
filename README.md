@@ -4,7 +4,7 @@ Software Engineer with 8 years of experience working on highly interactive, brow
 
 Passionate about pushing the boundaries of what can be done in a web browser.
 
-Strive for excellence, but be pragmatic. Don't cut corners, cut scope. And NEVER\* speak in absolutes.
+Strive for excellence, but be pragmatic. Don't cut corners: cut scope. And NEVER\* speak in absolutes.
 
 ## Professional Experience
 
@@ -46,3 +46,10 @@ Strive for excellence, but be pragmatic. Don't cut corners, cut scope. And NEVER
 ## Education
 
 B.S. Computer Engineering UC Santa Barbara
+
+## Other Interests
+
+- Hobby game development
+- Gardening
+- Surfing
+- Greyhounds

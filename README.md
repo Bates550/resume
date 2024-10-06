@@ -13,7 +13,7 @@ Strive for excellence, but be pragmatic. Don't cut corners: cut scope. And NEVER
 - Worked on a BIM model viewer using a custom WebGL rendering engine (originally based off of three.js) released as a [Javascript package](https://www.npmjs.com/package/@procore/bim-webviewer-sdk) consumed by first, second, and third-parties.
 - Improved perceived performance of our realtime, iterative rendering algorithm, balancing the need to load arbitrarily large model files (500k-1M faces) with usable framerates and minimal dropout.
 - Delivered features for navigating, manipulating, and interrogating BIM models
-- Faced with incidents, gradually introduced unit testing techniques, automated performance benchmarking, and manual testing expecations to the team
+- Faced with incidents, gradually introduced unit testing techniques, automated performance benchmarking, and manual testing expectations to the team
 - Implemented, socialized, and automated a [git flow](https://nvie.com/posts/a-successful-git-branching-model/)-based release process
 - Faced with ambiguous requirements and busy stakeholders, quickly implemented prototypes to nail down scope and work towards better definitions of done and working products.
 - Reduced development feedback cycle time by enhancing our local development environment to be able to test features locally rather than requiring deployment to a staging server.
@@ -31,7 +31,7 @@ Strive for excellence, but be pragmatic. Don't cut corners: cut scope. And NEVER
 
 ### Web Developer Intern - Laughlin Design Studio - _July 2015 - December 2015_
 
-- Took 90% done projects by the owner and bent Wordpress themes to my will implement final tweaks with JS/CSS hackery.
+- Took 90% done projects by the owner and bent Wordpress themes to my will to implement final tweaks with JS/CSS hackery.
 
 ## Technical Skills
 

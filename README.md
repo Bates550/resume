@@ -14,6 +14,7 @@ Software Engineer with 8 years of experience working on highly interactive, brow
 - Quickly implemented prototypes with JS/CSS/HTML to bring technical clarity to projects when scope was ambiguous.
 - Reduced development feedback cycle time by enhancing our local development environment to be able to test features locally rather than requiring deployment to a staging server (JS/CSS/HTML, CORS, OAuth).
 - Worked with engineers to standardize schemas for storing BIM data coming from multiple file formats (nwd, rvt, ifc, dwg) so that they can be consistently consumed by model viewers across web, iOS, and Android.
+- Gathered feedback and requirements from engineers, product managers, and designers on external teams to architect new engine features.
 
 ### Software Engineer (Financials) - Procore Technologies - _March 2016 - August 2021_
 

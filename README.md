@@ -1,10 +1,6 @@
 # Sean Spearman
 
-Software Engineer with 8 years of experience working on highly interactive, browser-based applications.
-
-Passionate about pushing the boundaries of what can be done in a web browser.
-
-Strive for excellence, but be pragmatic. Don't cut corners: cut scope. And NEVER\* speak in absolutes.
+Software Engineer with 8 years of experience working on highly interactive, browser-based applications. Passionate about pushing the boundaries of what can be done in a web browser.
 
 ## Professional Experience
 

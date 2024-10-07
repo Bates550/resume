@@ -30,7 +30,7 @@ Software Engineer with 8 years of experience working on highly interactive, brow
 
 ### Web Developer Intern - Laughlin Design Studio - _July 2015 - December 2015_
 
-- Took 90% done projects and bent Wordpress themes to my will to implement final tweaks with JS/CSS hackery.
+- Took 90% done projects and bent Wordpress themes to my will to implement final tweaks with JS/CSS.
 
 ## Technical Skills
 

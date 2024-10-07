@@ -13,7 +13,7 @@ Strive for excellence, but be pragmatic. Don't cut corners: cut scope. And NEVER
 - Worked on a BIM model viewer using a custom WebGL rendering engine (originally based off of three.js) released as a [Javascript package on npm](https://www.npmjs.com/package/@procore/bim-webviewer-sdk) consumed by first, second, and third-parties.
 - Improved perceived performance of our realtime, iterative rendering algorithm, balancing the need to load arbitrarily large model files (500k-1M faces) with usable framerates and minimal dropout.
 - Delivered features for navigating, manipulating, and interrogating BIM models using three.js math utilities.
-- Introduced unit testing techniques (karma/jasmine), automated performance benchmarking (node/fs, cypress), and higher quality expectations to the team to reduce incidents.
+- Introduced unit testing techniques (karma, jasmine), automated performance benchmarking (node/fs, cypress), and higher quality expectations to the team to reduce incidents.
 - Implemented, socialized, and automated a [git flow](https://nvie.com/posts/a-successful-git-branching-model/)-based release process.
 - Quickly implemented prototypes with JS/CSS/HTML to bring technical clarity to projects when scope was ambiguous.
 - Reduced development feedback cycle time by enhancing our local development environment to be able to test features locally rather than requiring deployment to a staging server (JS/CSS/HTML, CORS, OAuth)

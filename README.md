@@ -36,8 +36,7 @@ Software Engineer with 8 years of experience working on highly interactive, brow
 
 - Javascript / Typescript / Node
   - WebGL, WebGPU, three.js
-  - Web Workers
-  - IndexedDB
+  - Web Workers, IndexedDB
   - React, Redux, Vue, Next.js
   - webpack, babel
   - karma, jasmine, jest, cypress

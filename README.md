@@ -53,5 +53,5 @@ B.S. Computer Engineering UC Santa Barbara
 
 - Hobby game development: [Sharon Goes to Charon](https://bates550.itch.io/sharon-goes-to-charon)
 - Gardening
-- Surfing
+- [Surfing](./surfing.jpg)
 - Greyhounds

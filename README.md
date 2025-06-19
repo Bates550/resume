@@ -1,24 +1,25 @@
 # Sean Spearman
 
-Software Engineer with 8 years of experience working on highly interactive, browser-based applications. Passionate about pushing the boundaries of what can be done in a web browser.
+Software Engineer with a decade of experience working on highly interactive, browser-based applications. Passionate about pushing the boundaries of what can be done in a web browser.
 
 ## Professional Experience
 
 ### Senior Software Engineer (BIM) - Procore Technologies - _August 2021 - Present_
 
 - Worked on a BIM model viewer using a custom WebGL rendering engine (originally based off of three.js) released as a [Javascript package on npm](https://www.npmjs.com/package/@procore/bim-webviewer-sdk) consumed by first, second, and third-parties.
-- Improved perceived performance of our realtime, iterative rendering algorithm, balancing the need to load arbitrarily large model files (500k-1M faces) with usable framerates and minimal dropout.
-- Delivered features for navigating, manipulating, and interrogating BIM models using three.js math utilities.
+- Implemented a real-time 2D SVG markup system anchored to 3D model space
+- Improved performance of our realtime, iterative rendering algorithm, balancing the need to load arbitrarily large model files (500k-1M faces) with usable framerates and minimal dropout, utilizing browser APIs such as Web Workers, OPFS, and Rust compiled to WebAssembly (WASM)
+- Delivered features for navigating, manipulating, and interrogating BIM models using computational geometry techniques with three.js math utilities.
 - Introduced unit testing techniques (karma, jasmine), automated performance benchmarking (node/fs, cypress), and higher quality expectations to the team to reduce incidents.
 - Implemented, socialized, and automated a [git flow](https://nvie.com/posts/a-successful-git-branching-model/)-based release process.
-- Quickly implemented prototypes with JS/CSS/HTML to bring technical clarity to projects when scope was ambiguous.
+- Quickly implemented demos in tools like JSFiddle and Glitch to bring technical clarity to projects when scope was ambiguous.
 - Reduced development feedback cycle time by enhancing our local development environment to be able to test features locally rather than requiring deployment to a staging server (JS/CSS/HTML, CORS, OAuth).
 - Worked with engineers to standardize schemas for storing BIM data coming from multiple file formats (nwd, rvt, ifc, dwg) so that they can be consistently consumed by model viewers across web, iOS, and Android.
 - Gathered feedback and requirements from engineers, product managers, and designers on external teams to architect new engine features.
 
 ### Software Engineer (Financials) - Procore Technologies - _March 2016 - August 2021_
 
-- Built a highly-configurable web app (React/Redux) from the ground up used for managing budget and running financial reports for $100M+ construction projects with 1,000s of line items.
+- Built a highly-configurable budgeting web app (React/Redux) from the ground up, used to run financial reports for $100M+ construction projects with 10,000s of line items.
 - Worked closely with product managers, designers, and other engineers under tight deadlines.
 - Designed and iterated on REST APIs with server-side engineers.
 - Consolidated multiple financial table implementations (in React, jquery, ERB, and all permutations) into a single React backed by Rails implementation.
@@ -37,10 +38,11 @@ Software Engineer with 8 years of experience working on highly interactive, brow
 
 - Javascript / Typescript / Node
   - WebGL, WebGPU, three.js
-  - Web Workers, IndexedDB
+  - Web Workers, IndexedDB, OPFS
   - React, Redux, Vue, Next.js
-  - webpack, babel
-  - karma, jasmine, jest, cypress
+  - cloudflare
+  - webpack, babel, vite
+  - karma, jasmine, jest, cypress, vitest, mocha, chai
 - Rust -> WebAssembly (WASM)
 
 ## Education

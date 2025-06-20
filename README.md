@@ -22,7 +22,7 @@ Software Engineer with a decade of experience working on highly interactive, bro
 - Built a highly-configurable budgeting web app (**React** + **Redux**) from the ground up, used to run financial reports for $100M+ construction projects with 10,000s of line items.
 - Worked closely with product managers, designers, and other engineers under tight deadlines.
 - Designed and iterated on **REST APIs** with server-side engineers.
-- Consolidated multiple financial table implementations (in **React**, **jquery**, **ERB**, and all permutations) into a single **React** backed by **Rails** implementation.
+- Consolidated multiple financial table implementations (in **React**, **jquery**, **ERB**, and all permutations) into a single **React** backed by **Ruby on Rails** implementation.
 - Onboarded both senior and junior engineers as well as contractors with 10+ hour time difference.
 
 ### UX Research Engineer Intern - Procore Technologies - _January 2016 - March 2016_

@@ -51,7 +51,7 @@ B.S. Computer Engineering UC Santa Barbara
 
 ## Other Interests
 
-- Hobby game development: [Sharon Goes to Charon](https://bates550.itch.io/sharon-goes-to-charon)
+- Hobby game development: [Sharon Goes to Charon](https://bates550.itch.io/sharon-goes-to-charon), [Make Way for Mushrooms](https://bates550.itch.io/make-way-for-mushrooms), [Lazer Chain](https://bates550.itch.io/lazer-chain)
 - Gardening
 - [Surfing](./surfing.jpg)
 - Greyhounds
